@@ -1,3 +1,3 @@
 # 👋 Hey!
 
-Almost all of my activity is on private repositories.
+Head of Product Engineering @ Kimono, inc.
